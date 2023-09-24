@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1695546274 source:f:\oop(c++) project\bank management system\main\main.cpp
+	<iostream>
+	<vector>
+
